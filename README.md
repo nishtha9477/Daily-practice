@@ -15,4 +15,8 @@ In this repository, you'll find a variety of projects that I work on daily to sh
 
   # Day 1 Profile Card UI Design
 
+  ## Live Demo
+
+You can view the live demo of the project [here](https://nishtha9477.github.io/Daily-practice/).
+
 
