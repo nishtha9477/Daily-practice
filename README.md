@@ -13,4 +13,6 @@ In this repository, you'll find a variety of projects that I work on daily to sh
 - Frontend Frameworks (React..)
 - Libraries (Tailwind..)
 
+  # Day 1 Profile Card UI Design
+
 
